@@ -1,4 +1,7 @@
 # C_codefile
+
+//Use INDEX to navigate to a program
+
 This repository contains C codes from 1st year of college
 
 These codes are a part of practise questions given to a 1st year student of BTech.
